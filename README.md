@@ -45,3 +45,4 @@ This will get the backend server running.
 
 We have a 'db.json' file already in the 'src' directory containing 
 some data in order viewSubmissions.
+Delete , Edit , Search by email functionalities were added.
